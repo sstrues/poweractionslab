@@ -26,7 +26,7 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://orgbec06b89.crm.dynamics.com/'
+  ENVIRONMENT_URL: 'orgbec06b89.crm.dynamics.com/'
   USERNAME: <USERNAME>
   CLIENT_ID: '539b3b40-3354-4dab-820b-0875451fc81a'
   TENANT_ID: '936f32f0-55c1-42c3-a885-44a9d5c0c1b3'
